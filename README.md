@@ -1,2 +1,3 @@
 # hello-world
 i posit this...
+Studying for AZ-500 certification, whole load of new things to learn that i'd never have guessed i had to! :)
